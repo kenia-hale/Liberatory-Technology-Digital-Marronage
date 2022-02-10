@@ -27,7 +27,19 @@
     - [Hey advertisers, track THIS](https://blog.mozilla.org/en/products/firefox/hey-advertisers-track-this/)
 
 ### Your Technologies Below:
-
+- [The Dazzle Club](https://www.instagram.com/thedazzleclub/?hl=en)
+    - Creator: Four Artists in London
+    - Problem they're trying to solve: How to prevent security cameras using facial recognition from finding them
+    - Their solution: Painting their faces with different shapes and colors to reverse how the camera reads a face
+    - Benefits:
+        - Prevent themselves from being tracked
+        - Bonding experience through the group/community they’ve built during the pandemic
+    - Drawbacks: 
+        - Requires a lot of prep + Designing your face each day
+        - May not be appropriate for certain situations + long term
+        - Has a “cool/trendy” factor instead of a “practical” factor
+    - More Information 
+    - [Press](https://www.codastory.com/authoritarian-tech/london-facial-recognition-facepaint/) 
 
 
 
