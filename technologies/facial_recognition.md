@@ -41,6 +41,17 @@
     - More Information 
     - [Press](https://www.codastory.com/authoritarian-tech/london-facial-recognition-facepaint/) 
 
+- Clothing that confuses facial recognition technology.
+    - Creator: No specific creator, just different clothes designers
+    - Problem: How to prevent cameras from using facial recognition to identify people
+    - Solution: The clothing is meant to "Dazzle" facial recognition software with misleading shapes that prohibit the software from knowing what it is looking at
+    - Benefits:
+        -  Works against a lot of facial recognition technology
+    - Limitations:
+        - Niche market, unlikely to become mainstream especially because the clothing is impractical (ugly).
+        - Algorithms are already being developed to overcome the clothing  
+    - More Information: https://www.businessinsider.com/clothes-accessories-that-outsmart-facial-recognition-tech-2019-10#blas-masks-also-explore-the-potential-of-algorithm-driven-facial-recognition-to-enact-bias-and-produce-false-positives-13 
+
 
 
 
