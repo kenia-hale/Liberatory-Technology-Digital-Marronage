@@ -52,7 +52,17 @@
         - Algorithms are already being developed to overcome the clothing  
     - More Information: https://www.businessinsider.com/clothes-accessories-that-outsmart-facial-recognition-tech-2019-10#blas-masks-also-explore-the-potential-of-algorithm-driven-facial-recognition-to-enact-bias-and-produce-false-positives-13 
 
-
+- [Fawkes](http://sandlab.cs.uchicago.edu/fawkes/)
+  - Creator - UChicago SAND (Security, Algorithms, Networks, and Data) Lab
+  - Problem - Companies,Law Enforcement Agencies, etc. can search for your face across the internet through one-to-many identification (ex. police searching for criminal suspects using security-camera footage and a mug-shot database). Therefore, posts on social media or other places of your face could be identified extremely easily with facial recognition software that companies like Clearview AI have already developed. This web-scraping can also increase the accuracy of facial recognition tech to be used by law enforcement, for example, because they can create larger datasets to train the algorithms on. 
+  - Solution 
+    Fawkes converts an image — or “cloaks” it, in the researchers’ parlance — by subtly altering some of the features that facial recognition systems depend on when they construct a person’s face print. The software is designed to match you with the face template of someone who looks as much unlike you as possible, pulling from a database of celebrity faces. The goal is to more broadly significantly decrease the efficiency of facial recognition technologies like the one Clearview AI created by creating billions of cloaked photos on the internet that are unidentifiable.
+  - Benefits
+    -  It can effectively make you undetectable to facial recognition softwares, and still allow you to post on the internet. It can also help to wear down the efficacy of existing web-scraping, facial recognition software over time.
+  - Drawbacks
+    - It is not accessible to non-coders at the moment -- you can use the software but have to do some coding and download it to your computer. Also, some say there are already too many existing uncloaked photos on the internet, so the technology would be ineffective. However, if companies were mandated to cloak all of the photos on their sites, significant amounts of photos would be protected. This technology is not helpful at protecting you from your face being recorded in person, pre-web scraping, however. But hopefully this technology can make their algorithms fail. 
+  - More Information:
+    - [Website] http://sandlab.cs.uchicago.edu/fawkes/
 
 
 
