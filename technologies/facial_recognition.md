@@ -65,6 +65,19 @@
     - [Website] http://sandlab.cs.uchicago.edu/fawkes/
 
 
+- Atlas of Surveillance (https://atlasofsurveillance.org
+  - Creator - the Electronic Frontier Foundation and the Reynolds School of Journalism at the University of Nevada, Reno
+  - Problem - Want a way to track and aggregate law enforcement tools of surviellance
+  - Solution 
+    - combine crowdsourcing and data journalism to create the largest-ever repository of information on which law enforcement agencies are using what surveillance technologies
+  - Benefits
+    -  is open source so allows anyone to contribute or to learn how surveillance technology is spreading
+    -  is searchable for specific technology information
+  - Drawbacks
+    - Tool of data science, struggles for action
+    - very reliant on volunteer research
+  - More Information:
+    - https://www.eff.org/deeplinks/2021/12/atlas-surveillance-turns-dragnet-police-tech-2021-year-review, Dave Maass
 
 
 
