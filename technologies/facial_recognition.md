@@ -60,7 +60,9 @@
   - Benefits
     -  It can effectively make you undetectable to facial recognition softwares, and still allow you to post on the internet. It can also help to wear down the efficacy of existing web-scraping, facial recognition software over time.
   - Drawbacks
-    - It is not accessible to non-coders at the moment -- you can use the software but have to do some coding and download it to your computer. Also, some say there are already too many existing uncloaked photos on the internet, so the technology would be ineffective. However, if companies were mandated to cloak all of the photos on their sites, significant amounts of photos would be protected. This technology is not helpful at protecting you from your face being recorded in person, pre-web scraping, however. But hopefully this technology can make their algorithms fail. 
+    - Fawkes recreates AI's misidentification problem. If law enforcement runs a cloaked image through a facial recognition search, someone else will appear as a result. Thus, some uninvolved person may be subject to police arrest, interrogation or worse. 
+    - It is not accessible to non-coders at the moment -- you can use the software but have to do some coding and download it to your computer. 
+    - Also, some say there are already too many existing uncloaked photos on the internet, so the technology would be ineffective. However, if companies were mandated to cloak all of the photos on their sites, significant amounts of photos would be protected. This technology is not helpful at protecting you from your face being recorded in person, pre-web scraping, however. But hopefully this technology can make their algorithms fail. 
   - More Information:
     - [Website] http://sandlab.cs.uchicago.edu/fawkes/
 
