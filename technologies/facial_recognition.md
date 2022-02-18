@@ -81,5 +81,14 @@
   - More Information:
     - https://www.eff.org/deeplinks/2021/12/atlas-surveillance-turns-dragnet-police-tech-2021-year-review, Dave Maass
 
-asjkhdkjsakh
+
+- Interpol Facial Recognition - https://www.interpol.int/en/How-we-work/Forensics/Facial-Recognition
+- Creator: Interpol
+- Problem they're trying to solve: Identifying “persons of interest” at international borders; persons of interest being terrorists, criminals, fugitives, or missing persons. 
+-Their solution: “Coupled with an automated biometric software app, this system is capable of identifying or verifying a person by comparing and analyzing patterns, shapes and proportions of their facial features and contours.”  They use a database of images from an American AI company from which they draw their comparisons from. 
+-Benefits - what works in their solution?  In theory, the technology is supposed to assist in apprehending criminals across international borders.  When the image of the subject is entered into the system, it is automatically encoded and compared to the already stored profiles, which would contribute to the development of a global facial database. 
+-Drawbacks - what doesn't work in their solution? what communities does it exclude?  Almost always there is a manual process carried out to verify the results of the automated system which brings up questions about the necessity and efficacy of such a system.  Furthermore, a program like this is likely coded with the biases of WASP individuals and holds those biases which likely means that Arabic and Asian names/faces are probably more targeted.  
+
+
+
 
