@@ -26,7 +26,6 @@ LeakyPick
     - As more IoT devices (namely voice assistants) flood the market it will be harder for this approach to scale, because they have the challenge of developing generalizable rules for noticing when a device is sending out audio.
   - More information: https://www.wired.com/story/a-new-gadget-stops-voice-assistants-from-snooping-on-you/ 
 
-Technology entry template:
 
 BluTag - https://blu.ai 
 Creator: Shilp Agarwal / Rahul Agarwal
@@ -38,7 +37,7 @@ More Information - In the News: https://blu.ai/in-the-news-blutag
 
 
 
-- Technology Name - ClapperVsAlexa
+Technology Name - ClapperVsAlexa
 - Creator: An engineer named Chuck Carey 
 - Problem they're trying to solve: “an always-listening smart speaker”
 - Their solution: A box called ClapperVsAlexa that sits on the device.  Imagine a Clap-on but geared to protect your privacy instead.  When the box is open, the smart device operates normally, but with a clap, the box closes and plays sounds that distract the device.  
