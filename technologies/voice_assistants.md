@@ -49,9 +49,13 @@ More Information - In the News: https://blu.ai/in-the-news-blutag
 
 [ShotSpotter Gun Detection Technology](https://www.shotspotter.com/) 
 Creator: ShotSpotter
+
 Problem they're trying to solve: The company uses acoustic sensors placed on buildings and lampposts to identify gunshots. However, it is generally inaccurate in differentiating between gunshots, fireworks, car backfire, and even NYC construction. Human employees are often sent the recording of the sound and are left to determine the type of noise. It relies on secretly placing microphones in neighborhoods deemed as “high crime,” a deeply racialized construct that leaves Black and Brown communities at risk. This technology brings police into neighborhood to extreme degrees.
+
 My/Their solution: I attempted to search for solutions for a long time, and I found myself looking up “how to protect yourself from Shotspotter.” That left me feeling very disillusioned because this tech is posited as a way to protect communities. However, it has recorded conversations and been used in court. I would like to brainstorm possible solutions — maybe it is summoning a group of people to find and disable the microphones, individually wear sound-disrupting bracelets or accessories, or creating a social network to report on where police have been deployed in response to a call from Shotspotter’s sound recognition. 
+
 Benefits - It is vital to have solutions to the use of this tech, and I haven’t been able to find much. 
+
 Drawbacks - These solutions are possibly successful at protecting communities, but ultimately they are individualistic responses. Community solutions could emerge here, but ultimately getting rid of the use of this tech is the goal. Also, so many communities of privilege are not impacted by this tech, so the most marginalized communities are left to resist it. 
 
 [https://www.vice.com/en/article/88nd3z/gunshot-detecting-tech-is-summoning-armed-police-to-black-neighborhoods](https://www.vice.com/en/article/88nd3z/gunshot-detecting-tech-is-summoning-armed-police-to-black-neighborhoods)
