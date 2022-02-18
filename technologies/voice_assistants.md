@@ -25,3 +25,13 @@ LeakyPick
     - According to their tests it 96% accurate, so still misses cases
     - As more IoT devices (namely voice assistants) flood the market it will be harder for this approach to scale, because they have the challenge of developing generalizable rules for noticing when a device is sending out audio.
   - More information: https://www.wired.com/story/a-new-gadget-stops-voice-assistants-from-snooping-on-you/ 
+
+Technology entry template:
+
+BluTag - https://blu.ai 
+Creator: Shilp Agarwal / Rahul Agarwal
+Problem they're trying to solve: companies want new way to reach customers in more specific manner
+Their solution: help companies reach consumers through personal voice messages
+Benefits -
+Drawbacks - 
+More Information - In the News: https://blu.ai/in-the-news-blutag
