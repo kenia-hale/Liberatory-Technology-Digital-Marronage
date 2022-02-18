@@ -29,7 +29,7 @@ LeakyPick
 Technology entry template:
 
 Project Alias - http://bjoernkarmann.dk/project_alias
-Creator: Tore Knudsen
+Creator: Tore Knudsen and Bjørn Karmann 
 Problem they're trying to solve: Voice Assistants always listening
 Their solution: appendage that can be placed over a smart speaker to deafen it
 Benefits -
@@ -37,3 +37,5 @@ Benefits -
 Drawbacks - 
 - is there a way to decode conversations with random images similarly to how there is certain ways to decome images with random noise? https://en.wikipedia.org/wiki/Steganography
 More Information - In the News: https://www.nytimes.com/2020/02/14/technology/alexa-jamming-bracelet-privacy-armor.html
+- https://www.esquire.com/lifestyle/a25916532/amazon-alexa-google-home-anti-spying-project-alias/
+- 
