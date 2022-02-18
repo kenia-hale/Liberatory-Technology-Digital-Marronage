@@ -28,10 +28,12 @@ LeakyPick
 
 Technology entry template:
 
-BluTag - https://blu.ai 
-Creator: Shilp Agarwal / Rahul Agarwal
-Problem they're trying to solve: companies want new way to reach customers in more specific manner
-Their solution: help companies reach consumers through personal voice messages
+Project Alias - http://bjoernkarmann.dk/project_alias
+Creator: Tore Knudsen
+Problem they're trying to solve: Voice Assistants always listening
+Their solution: appendage that can be placed over a smart speaker to deafen it
 Benefits -
+- stops voice assistitants from listening
 Drawbacks - 
-More Information - In the News: https://blu.ai/in-the-news-blutag
+- is there a way to decode conversations with random images similarly to how there is certain ways to decome images with random noise? https://en.wikipedia.org/wiki/Steganography
+More Information - In the News: https://www.nytimes.com/2020/02/14/technology/alexa-jamming-bracelet-privacy-armor.html
