@@ -4,6 +4,9 @@
 
 This project aims to explore liberatory technologies and forms of digital marronage and cultivate a technological toolbox that is both secure and transformative.
 
+## [Project Google Drive](https://drive.google.com/drive/u/1/folders/1JbcIvgdUS_r8SjZ1j63yBPZkpIRW2pBg)
+### [Link to Notes Folder](https://drive.google.com/drive/u/1/folders/16kYnJlmNNYQuqHNm9WqGXUOvIc8ju0b1)
+
 ## Research Question: How do we design liberatory technologies?
 
 Liberatory: Anything that pushes for the increased freedom and wellbeing of marginalized peoples
