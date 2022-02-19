@@ -48,6 +48,8 @@ This project aims to explore liberatory technologies and forms of digital marron
 #### Week 3: Biometric Technologies
 - [Amazon's Halo Wearable Can Read Emotions. Is That Too Weird? - Bloomberg](https://www.bloomberg.com/news/newsletters/2020-08-31/amazon-s-halo-wearable-can-read-emotions-is-that-too-weird) 
 - [Introduction: #TravelingWhileTrans, Design Justice, and Escape from the Matrix of Domination · Design Justice](https://design-justice.pubpub.org/pub/ap8rgw5e/release/1) 
+- [Subversive: BioFashion for Black Lives](https://dl.acm.org/doi/10.1145/3490149.3505569)
+  - Optional video from above paper - [Can a Sensor-Laden Hoodie Protect Vulnerable Communities?](https://issues.org/tag/hoodie/)
 
 #### Week 4: Social Media
 - [🌿 Tend to Your Digital Gardens: Flowers, Weeds, and All](https://newpublic.substack.com/p/-tend-to-your-digital-gardens-flowers) 
