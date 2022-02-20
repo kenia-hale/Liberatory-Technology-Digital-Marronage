@@ -59,3 +59,13 @@ Drawbacks - These solutions are possibly successful at protecting communities, b
 [https://www.vice.com/en/article/88nd3z/gunshot-detecting-tech-is-summoning-armed-police-to-black-neighborhoods](https://www.vice.com/en/article/88nd3z/gunshot-detecting-tech-is-summoning-armed-police-to-black-neighborhoods)
 
 [https://www.theguardian.com/law/2015/jul/17/shotspotter-gunshot-detection-schools-campuses-privacy](https://www.theguardian.com/law/2015/jul/17/shotspotter-gunshot-detection-schools-campuses-privacy)
+
+
+- Lofgren-Massie Ammendment - https://demandprogress.org/27-groups-urge-support-for-the-lofgren-massie-amendment-to-cjs-approps-to-rein-in-sec-702-of-fisa/
+  - Creator: Representatives Lofgren, Massie, Jayapal, and Davidson - 
+  - Problem they're trying to solve: FBI's exploitation of the Commerce, Justice, and Science(CJS) Appropriations Bill in order to "incidentally" retrieve information from databases of foriegn intelligence information without a warrant.
+  - Their solution: The Lofgren-Massie Amendment to CJS would close the loophole in CJS that the FBI is using to warrantlessly surveil Americans. 
+  - Benefits: This amendment would prohibit warrantless searches of U.S. person's online public and private data. This amendment would also prohibit the encouragement from government agencies for companies to build "backdoors"  into their products and services for convenient surveillance tactics
+  - Drawbacks: This doesn't address the lack of consent in the process of surveilling. It only addresses how agents might be allowed to use the surveillance information once it has been collected.
+  - More Information" https://lofgren.house.gov/massie-lofgren-amendment
+
