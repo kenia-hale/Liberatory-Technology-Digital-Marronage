@@ -90,12 +90,12 @@
 -Drawbacks - what doesn't work in their solution? what communities does it exclude?  Almost always there is a manual process carried out to verify the results of the automated system which brings up questions about the necessity and efficacy of such a system.  Furthermore, a program like this is likely coded with the biases of WASP individuals and holds those biases which likely means that Arabic and Asian names/faces are probably more targeted. 
 
 - Cooler Screens - https://www.coolerscreens.com/ 
-- Creator: Arsen Avakian
-- Problem they're trying to solve: enhance shopping experience in brick and mortar retail.
-- Their solution: Cooler Screens is a company that utilizes facial recognition advertisements. With cameras and sensors embedded on the doors of refrigerated aisle sections, it allows for companies like Walgreens to advertise to their customers by recognizing factors like age and gender and displaying ads accordingly. These doors allow real time analytics by noting which items customers looked at or picked up, and they shift what products are viewed based on what they think the customer will want to see.
-- Benefits: tailored shopping experience, 
-- Drawbacks: Cooler Screens makes assumptions about you based on clothing and appearance. What if your interests don't align with those of the people who dress like you? What if you don't consent to being surveilled while you're shopping?
-- More Information: https://retailwire.com/discussion/walgreens-tests-tech-that-sort-of-recognizes-you-in-store/
+  - Creator: Arsen Avakian
+  - Problem they're trying to solve: enhance shopping experience in brick and mortar retail.
+  - Their solution: Cooler Screens is a company that utilizes facial recognition advertisements. With cameras and sensors embedded on the doors of refrigerated aisle sections, it allows for companies like Walgreens to advertise to their customers by recognizing factors like age and gender and displaying ads accordingly. These doors allow real time analytics by noting which items customers looked at or picked up, and they shift what products are viewed based on what they think the customer will want to see.
+  - Benefits: tailored shopping experience, 
+  - Drawbacks: Cooler Screens makes assumptions about you based on clothing and appearance. What if your interests don't align with those of the people who dress like you? What if you don't consent to being surveilled while you're shopping?
+  - More Information: https://retailwire.com/discussion/walgreens-tests-tech-that-sort-of-recognizes-you-in-store/
 
 
 
