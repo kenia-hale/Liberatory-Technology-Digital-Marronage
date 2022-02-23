@@ -69,3 +69,16 @@ Drawbacks - These solutions are possibly successful at protecting communities, b
   - Drawbacks: This doesn't address the lack of consent in the process of surveilling. It only addresses how agents might be allowed to use the surveillance information once it has been collected.
   - More Information" https://lofgren.house.gov/massie-lofgren-amendment
 
+- Bhumika Speaks - https://projects.asiaweekly.com/bhumika-can-speak-for-herself/
+  - Creator: Bhumika (Transgender Political Activist - Nepal) + Marc Lajoie (Chinese Reporter)
+  - Problem they're trying to solve: Creating a dialogue about common misconceptions surrounding transgender identities
+  - Their solution: Take an interview that Bhumika has and use other deep learning technologies to create a interactive platform where users can input questions about transgender identities, etc, and Bhumika can respond in her own words. 
+  - Benefits - what works in their solution? 
+      -  Highlights the voices of a trangender individual
+      -  Has a realistic response
+      -  Interactive (Ability for client to put in their own question)
+  - Drawbacks - what doesn't work in their solution? what communities does it exclude? 
+      -  Relies on technologies from IBM, Google, etc. 
+      -  Cannot answer any/every question + trolling questions 
+  - More Information - extra links about the technology
+
