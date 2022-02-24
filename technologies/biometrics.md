@@ -29,14 +29,14 @@
 
 
 - Life headband
--   Creator: Mining3 and SmartCap (Australian company)
--   Problem they're trying to solve: Truck drivers and miners falling asleep while working
--   Their Solution: Headband that uses EEG technology to monitor brain activity.  Then the results are analyzed to determine levels of alertness.  The device then sends early warnings if they notice the wearer begins to fatigue (predictive).
--   Benefits:
+  - Creator: Mining3 and SmartCap (Australian company)
+  - Problem they're trying to solve: Truck drivers and miners falling asleep while working
+  - Their Solution: Headband that uses EEG technology to monitor brain activity.  Then the results are analyzed to determine levels of alertness.  The device then sends early warnings if they notice the wearer begins to fatigue (predictive).
+  - Benefits:
       - Could prevent accidents
       - The technology is comfortable and wearable (can fit under hard-hats or beanies easily)   
--   Drawbacks
+  - Drawbacks
     - The notifications are a closed circuit so a driver could theoretically ignore them
-- More Information: 
+  - More Information: 
     - https://research.qut.edu.au/cmbi/wp-content/uploads/sites/216/2019/10/SmartCap-final.pdf
     - https://www.nytimes.com/2020/02/06/business/drowsy-driving-truckers.html 
