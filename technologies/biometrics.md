@@ -42,7 +42,8 @@
     - https://www.nytimes.com/2020/02/06/business/drowsy-driving-truckers.html 
 
  
-ION - infant optical scanning technology - https://health.ucsd.edu/news/releases/Pages/2018-09-12-researchers-develop-biometric-tool-for-newborn-fingerprinting.aspx
+ 
+- ION - infant optical scanning technology - https://health.ucsd.edu/news/releases/Pages/2018-09-12-researchers-develop-biometric-tool-for-newborn-fingerprinting.aspx
 
   - Creator(s): University of California San diego researchers (e.g. Eliah Aronoff-Spencer)
   - Problem they're trying to solve: infant identification inefficiencies because of the size, movements and behaviors of infants. Past attempts have tried to extrapolate adult technologies in order to successfully fingerprint children. 
