@@ -54,3 +54,20 @@
   - More Information: 
     - https://research.qut.edu.au/cmbi/wp-content/uploads/sites/216/2019/10/SmartCap-final.pdf
     - https://www.nytimes.com/2020/02/06/business/drowsy-driving-truckers.html 
+
+- ION - infant optical scanning technology - https://health.ucsd.edu/news/releases/Pages/2018-09-12-researchers-develop-biometric-tool-for-newborn-fingerprinting.aspx
+
+  - Creator(s): University of California San diego researchers (e.g. Eliah Aronoff-Spencer)
+  - Problem they're trying to solve: infant identification inefficiencies because of the size, movements and behaviors of infants. Past attempts have tried to extrapolate adult technologies in order to successfully fingerprint children. 
+  - Their solution: Develop a portable biometric tool for fingerprinting and palmprinting of infants and children as early as the first day of birth. Instead of relying on existing adult fingerprinting technologies, their solution is developed from the ground up with infants.
+  - Benefits: Eliminates the need for paper identification and allows rapid identification to retrieve patient history and support timely vaccinations and treatments. It is portable and works via laptops and cellular devices.
+  - Drawbacks: A databreach or compromise of such a device would expose "encrypted" templates of the prints of many children and infants that could potentially be decrypted. Misidentification of a child or infant could mean their exposure to the wrong treatments. Additionally, this tool could be used to extend the act of surviellance and criminalizing through surveillance onto children and infants.
+  - More Information - https://www.biometricupdate.com/201809/uc-san-diego-researchers-unveil-non-touch-optical-technology-for-infant-fingerprinting
+
+- Use of Biometric Identification Tech in the Occupied Palestinian Territories [https://international-review.icrc.org/articles/ihl-hr-facial-recognition-technology-occupied-palestinian-territory-914](https://international-review.icrc.org/articles/ihl-hr-facial-recognition-technology-occupied-palestinian-territory-914)
+    - Creator: Israeli company AnyVision (Israeli Govt), possibly Amazon & Goodle
+    - Problem they're trying to solve: They are seeking to make more efficient the ability to regulate and control the movement of Palestinians at checkpoints and for work permits.
+    - Their solution: Palestinians who request permits to enter Israel must first get photographed and fingerprinted at an Israeli military office. Their photos are stored in a biometric database and are connected to electronic ID cards they scan at the checkpoint. Facial recognition software at the checkpoint matches their face to their photos in Israel's biometric database.
+    - Benefits - This is effective for them because biometrics are so unique and specific to the person that huge masses of data can be collected and searched in reference to specific people. Already, around 450,000 Palestinians have electronic ID cards and are therefore known to have their facial data stored in databases by Israel.
+    - Drawbacks - This directly serves to facilitate the oppression and ongoing occupation of Palestinians and Palestinians don’t have the ability to opt out. This programming has gone on without much scrutiny from organizations or countries, yet they have collected so much information.
+    - More Information - Again, like last week, I am left wondering what strategies of resistance could look like. What liberatory tech could emerge in resistance to this process? Would it be low-tech? How do we address the fact that Palestinians, by necessity, have to provide the most accurate information (meaning their identities are hypervisible and vulnerable to the state), in order to travel and move around? Would love to brainstorm and discuss the ways that biometrics have predominately emerged out of a security and movement control logic.
