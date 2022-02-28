@@ -54,7 +54,7 @@ This project aims to explore liberatory technologies and forms of digital marron
 #### Week 4: Social Media
 - [🌿 Tend to Your Digital Gardens: Flowers, Weeds, and All](https://newpublic.substack.com/p/-tend-to-your-digital-gardens-flowers) 
 - [The Signals Research](https://newpublic.org/signals)
-- [The Good Web: Competing Visions for the Future of Social Media](https://citp.princeton.edu/event/zuckerman/)
+- [The Good Web: Competing Visions for the Future of Social Media](https://mediacentral.princeton.edu/media/CITP+SeminarA++Ethan+ZuckermanA+The+Good+WebA+Competing+Visions+for+the+Future+of+Social+Media/1_g52q7iua/151062771)
 
 #### Week 5: Protest Safety
 - [Mobile Justice | American Civil Liberties Union](https://www.aclu.org/issues/criminal-law-reform/reforming-police/mobile-justice?redirect=feature/aclu-apps-record-police-conduct) 
