@@ -28,12 +28,13 @@ LeakyPick
 
 
 BluTag - https://blu.ai 
-Creator: Shilp Agarwal / Rahul Agarwal
-Problem they're trying to solve: companies want new way to reach customers in more specific manner
-Their solution: help companies reach consumers through personal voice messages
-Benefits -
-Drawbacks - 
-More Information - In the News: https://blu.ai/in-the-news-blutag
+  - Creator: Shilp Agarwal / Rahul Agarwal
+  - Problem they're trying to solve: companies want new way to reach customers in more specific manner
+  - Their solution: help companies reach consumers through personal voice messages
+  - Benefits - 
+  - Drawbacks - 
+    - example of added surviellance  
+  - More Information - In the News: https://blu.ai/in-the-news-blutag
 
 
 
