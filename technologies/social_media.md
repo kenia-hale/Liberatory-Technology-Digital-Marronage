@@ -22,3 +22,16 @@
      - Shifts the problem downstream which is manageable for some people
   - More Information - extra links about the technology
       - Another tech I have heard about is called HalloApp
+
+- Mark Yourself Unsafe 
+  - Creator: Movement for Black Lives in partnership with ad agency J. Walter Thomas
+  - Problem they're trying to solve: Highlighting threats and dangers that Black communities across the United States face
+  - Their solution: Reversal of Facebook's mark yourself safe feature, instead of marking yourself "safe", Black people caross the United States can mark themselves as unsafe.
+  - Benefits - what works in their solution?
+    - Individuals can share their unsafe status on Facebook and Twitter  
+  - Drawbacks - what doesn't work in their solution? what communities does it exclude? 
+    - The link for the website is marked as unsafe by Google, which is a deterrent to usage
+    - Lack of action(s) after marking oneself as "unsafe" 
+  - More Information - extra links about the technology
+    - https://www.adsoftheworld.com/media/digital/black_lives_matter_unsafety_check
+    - https://mashable.com/article/black-lives-matter-mark-yourself-unsafe  
