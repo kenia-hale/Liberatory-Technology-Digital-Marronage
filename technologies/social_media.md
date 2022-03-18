@@ -23,7 +23,7 @@
   - More Information - extra links about the technology
       - Another tech I have heard about is called HalloApp
 
-- Mark Yourself Unsafe (https://www.markyourselfunsafe.com/)
+### Mark Yourself Unsafe (https://www.markyourselfunsafe.com/)
   - Creator: Movement for Black Lives in partnership with ad agency J. Walter Thomas
   - Problem they're trying to solve: Highlighting threats and dangers that Black communities across the United States face
   - Their solution: Reversal of Facebook's mark yourself safe feature, instead of marking yourself "safe", Black people caross the United States can mark themselves as unsafe.
