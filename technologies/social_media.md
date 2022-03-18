@@ -35,3 +35,17 @@
   - More Information - extra links about the technology
     - https://www.adsoftheworld.com/media/digital/black_lives_matter_unsafety_check
     - https://mashable.com/article/black-lives-matter-mark-yourself-unsafe  
+
+### Be Real - https://bere.al/en/ambassadors
+  - Creator: Alexis Barreyat
+  - Problem they're trying to solve: stop curation of physical lives on digital spaces
+  - Their solution: threading accountability in posts, asking at random time throughout the day to post update in an attempt to “be real”
+  - Benefits: 
+    - Less curation of lives on social media
+    - Small enough platform now where people feel safe to have friends hold them accountable
+    - Personalizable
+    - anti-Instagram in performativity
+  - Drawbacks
+    - Can still encourage radical exclusionary groups
+    - Encourages more digital extraction from users
+
