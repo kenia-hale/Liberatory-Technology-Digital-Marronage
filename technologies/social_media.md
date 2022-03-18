@@ -49,3 +49,13 @@
     - Can still encourage radical exclusionary groups
     - Encourages more digital extraction from users
 
+
+### Vero  - https://vero.co/vero-mission
+  - Creator: Ayman Hariri
+  - Problem they're trying to solve: Ad and algorithm based Social media can cause several privacy and health problems such as add profiling, and increased levels of stress 
+  - Their solution: Vero aims to create a "pure" form  or "Next-Gen" social without restricting content algorithms or data mining, or ads . 
+  - Benefits - You control what you want to see without interference of market activity or preference based algorithms. 
+  - Drawbacks - Vero is subscription based, and they sell Analytics data to their service provider in order to have an analytics platform
+  - More Information - https://www.makeuseof.com/social-media-apps-without-algorithms-ads/
+
+
