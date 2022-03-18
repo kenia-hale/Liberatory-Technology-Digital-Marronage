@@ -48,6 +48,8 @@
   - Drawbacks
     - Can still encourage radical exclusionary groups
     - Encourages more digital extraction from users
+  - More info:
+    - https://mashable.com/article/how-to-use-bereal-app
 
 
 ### Vero  - https://vero.co/vero-mission
