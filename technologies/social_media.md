@@ -60,4 +60,12 @@
   - Drawbacks - Vero is subscription based, and they sell Analytics data to their service provider in order to have an analytics platform
   - More Information - https://www.makeuseof.com/social-media-apps-without-algorithms-ads/
 
+### Womaze -- https://womaze.com/:
+  - Creator: Womaze was created by three sisters — Rebecca, Leah, and Hannah Wiser (high school and college students — and their mom, Corin.
+  - Problem they're trying to solve: A lack of access to wellness and mental health resources that is consistent and curated. 
+  - Their solution: An app that they call your "toolbox for life" that has easy to navigate sections related to your immediate needs/interests: spirituality, in a funk?, meditations, etc. They have short quotes, embedded articles, or videos you can watch and like to save them in different "toolboxes." Also, the app sends you a notification a day with an uplifting quote called "push motivations" like "Notice how you feel in this moment. Ask yourself: what do I need right now?" You can also share your resources with others very easily through various means including text and social media.
+  - Benefits - It is a very curatable platform without excessive, overwhelming amounts of information. It reminds me of the digital garden idea from the readings since it seems to fit within ideas of the "slow web" that is supposed to feel like a calming experience. This platform finds a way to make the world feel smaller, a way to feel less alone. Also, the push motivations are a way for the user to not have to do all the work to help their mental health, the app shows a sense of care by consistently sending uplifting messages.
+  - Drawbacks - It's not very communal (ie no messaging or social networking in the app) and the information is only curated by Womaze staff, not everyone. Also, the content is a bit limited as in they don't have many resources related to healing or self-care from racism and racialized trauma. This app seems to understand mental health in a colorblind way
+  - More Information - download the app here. https://apps.apple.com/us/app/womaze/id1339472819
+
 
