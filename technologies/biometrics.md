@@ -71,3 +71,13 @@
     - Benefits - This is effective for them because biometrics are so unique and specific to the person that huge masses of data can be collected and searched in reference to specific people. Already, around 450,000 Palestinians have electronic ID cards and are therefore known to have their facial data stored in databases by Israel.
     - Drawbacks - This directly serves to facilitate the oppression and ongoing occupation of Palestinians and Palestinians don’t have the ability to opt out. This programming has gone on without much scrutiny from organizations or countries, yet they have collected so much information.
     - More Information - Again, like last week, I am left wondering what strategies of resistance could look like. What liberatory tech could emerge in resistance to this process? Would it be low-tech? How do we address the fact that Palestinians, by necessity, have to provide the most accurate information (meaning their identities are hypervisible and vulnerable to the state), in order to travel and move around? Would love to brainstorm and discuss the ways that biometrics have predominately emerged out of a security and movement control logic.
+
+Dangerous Things - https://dangerousthings.com/about-implants/
+  - Creator: Amal Graafstra
+  - Problem they're trying to solve: People’s general forgetfulness for keys, passwords, etc. when trying to access things that they might get otherwise locked out of. 
+  - Their solution: RFID implants in the body that are supposed to be convenient for people.  This is supposed to be a convenient approach that melds human beings and technology in something called biohacking. 
+  - Benefits - For the small price of $40, the company sells a “body hacking kit which includes NFC chips, RFID chips and biomagnets and a sterilized injection needle to insert the device.”
+  - Drawbacks - There is no FDA approval because these aren’t medical devices.  Graafstra explains that they had the option to get approval, but decided against it because it would restrict who can do installations (which is a really scary thought- that just anyone can implant these chips).  It’s unclear whether the data on the chips are locally stored or are on the cloud.  A lot of credit and debit cards use RFID and information can still be stolen- this isn’t as secure a biometric technology as it implies. 
+  - More Information 
+    -   https://www.cnbc.com/2016/03/15/lost-your-keys-just-inject-a-chip-into-your-hand.html
+    -   https://youtu.be/7DxVWhFLI6E 
