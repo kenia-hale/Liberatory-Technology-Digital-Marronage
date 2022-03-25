@@ -46,3 +46,21 @@ Proposed Solution: Community page to process those experiences, share writing, a
 Benefits - It is community specific yet also inclusive to all to learn, and she highlights key issues that need space for healing. 
 Limitations - Although this space is so so needed, instagram isn't the best platform to facilitate this. There isn't much space to really meet other followers of the page, and the podcast she created was short lived and now can't even be found on the internet. It is strange and thought-provoking that something I listened to that was so moving and healing to me has now dissapeared and can't reach more people. 
 More Information: https://www.cnn.com/2021/09/18/us/afghan-americans-advice-refugees/index.html
+
+
+### The Cosmos (Group Hug Program):
+- https://www.jointhecosmos.com/group-hug-program
+  - Creator: Cassandra Lam and Karen Mok
+  - Problem: Tiredness/Exhaustion that was tied to racial/gender identity
+  - Proposed Solution: Created a nationwide group called The Cosmos. They focus on healing each other through numerous types of experiences. Since that program always felt very loose-- people came and went-- they've created the Group Hug Program to grieve, heal, and build collective resilience. 
+  - Benefits - what works in their solution?
+    - Pricing Issues
+    - Being intentional about providing a lasting resource / what the purpose of it is for
+    - Connecting people virtually
+    - A Wide range of activities to practice in
+    - Dedicated to Asian Women 
+  - Limitations - what doesn't work in their solution? what communities does it exclude? 
+    - There are barriers to entry (price) 
+    - Offered at a specific time
+    - Well organized and thought out --> tells people exactly what they will get out of the program
+  - More Information - extra links about the technology
