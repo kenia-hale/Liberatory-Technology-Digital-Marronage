@@ -69,3 +69,11 @@
   - More Information - download the app here. https://apps.apple.com/us/app/womaze/id1339472819
 
 
+### Life360 - https://www.life360.com/
+  - Creator: Chris Hulls
+  - Problem they're trying to solve: In many ways, technology enables us to live very private lives from our friends, families, and loved ones.  Those walls can be drawn up against other people and on a simple basis, information can be kept away.
+  - Their solution: Life360 offers access into your life by way of your phone and offers peace of mind for location services, digital safety, driving safety and emergency assistance.  Parents can have a better sense of what their children are doing and adults can make sure their friends are physically safe. 
+  - Benefits - If someone in your circle ends up in a sticky situation, or something goes awry, the app can notify friends and family and urge emergency services to be called.  The peace of mind is one of the greatest attractions to the app.  
+  - Drawbacks - A lot of people find it invasive of privacy and detracts from independence.  It also requires a paid subscription which might bar some families from using the app in the ways that are most helpful to them. 
+  - More Information - https://letgrow.org/surveillance-teens-parent-rant/
+
