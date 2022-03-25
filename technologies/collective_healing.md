@@ -20,3 +20,13 @@
   - Drawbacks - It can be triggering to view this content and difficult to grapple with.  On the flip side, I wonder to what level the screen creates distance and what kind of impact that has. 
   - More Information - https://newsone.com/4135260/cccadi-on-protest-and-mourning-virtual-series/
 
+
+### Therapy For Black Girls - Podcast-https://open.spotify.com/show/7kPXrtK66kXyiqpKTtsqNN
+- Creator: Dr. Joy Harden Bradford
+- Problem: Dr Joy is trying to subvert the stigma surrounding mental health, especially as it pertains to black women. 
+- Proposed Solution: Creation of a digital space that presents mental health topics in a more culturally relatable manner than institutional approaches. This space includes a Therapy For Black Girls Podcast which explores complex topics not limited to nagivating relationships, trauma, and anxiety. 
+- Benefits: This expands accessibility to mental health resources, practices, and understanding to a medium other than health care.
+- Limitations: This does not completely solve concerns of healthcare accessibility as it cannot be used as a replacement for mental health advising. The podcast format also neglects black women with hearing disabilities.
+More Information - https://therapyforblackgirls.com/
+
+
