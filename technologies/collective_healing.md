@@ -41,10 +41,14 @@ More Information - https://therapyforblackgirls.com/
 ### Burqas and Beer Instagram Page - https://www.instagram.com/burqasandbeer/?hl=en
 https://www.burqasandbeer.com/
 Creator: Madinah Wardak, Afghan-American creator based in LA
+
 Problem: Complete dearth of publicly shared information on Afghan refugee women experiences. Lack of space to process the trauma of being forced to leave your homeland due to American imperialism, to watch your country be destabalized and destroyed.
 Proposed Solution: Community page to process those experiences, share writing, and share information. She often highlights clips of Afghan/South Asian historical figures and Black revolutionaries. There is lots of space in the comments to share and conversate and she responds often. She also created a podcast called Those Afghan Girls - a short-lived, unedited dialogue between two First Gen Afghan-American refugee women. It was an incredibly powerful and healing space to hear their reflections on being Muslim women. and survivors of U.S. imperialism, and how that vantage point allowed them to assess many current political issues.
-Benefits - It is community specific yet also inclusive to all to learn, and she highlights key issues that need space for healing. 
-Limitations - Although this space is so so needed, instagram isn't the best platform to facilitate this. There isn't much space to really meet other followers of the page, and the podcast she created was short lived and now can't even be found on the internet. It is strange and thought-provoking that something I listened to that was so moving and healing to me has now dissapeared and can't reach more people. 
+
+Benefits: It is community specific yet also inclusive to all to learn, and she highlights key issues that need space for healing. 
+
+Limitations: Although this space is so so needed, instagram isn't the best platform to facilitate this. There isn't much space to really meet other followers of the page, and the podcast she created was short lived and now can't even be found on the internet. It is strange and thought-provoking that something I listened to that was so moving and healing to me has now dissapeared and can't reach more people. 
+
 More Information: https://www.cnn.com/2021/09/18/us/afghan-americans-advice-refugees/index.html
 
 
