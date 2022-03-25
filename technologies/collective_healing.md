@@ -64,3 +64,21 @@ More Information: https://www.cnn.com/2021/09/18/us/afghan-americans-advice-refu
     - Offered at a specific time
     - Well organized and thought out --> tells people exactly what they will get out of the program
   - More Information - extra links about the technology
+
+
+### Highlighting Sound Baths in Black Healing Spaces
+- https://www.eventbrite.com/e/black-restoration-day-an-interactive-sound-bathself-compassion-experience-tickets-292101031047
+  -  Creator: can be anyone, for this example specifically: Rocky Douglas (Rocky's Root Care)
+  -  Problem: most healing requires alot of interaction which could be more exhausting
+  -  Proposed Solution: combine music and community for the purpose of healing
+  -  Benefits - 
+     - Relaxing
+     - can be relatively easy to make and accessible to participate in
+     - made specifically for niche populations
+     - can participate in person or online
+  -  Limitations -
+     - not well known
+  -  More information/Examples
+     -   https://i-d.vice.com/en_uk/article/pkyazg/kelsey-lu-432-meditation-sound-bath
+     -   https://www.youtube.com/watch?v=Xxs8ltPuAw8
+   
