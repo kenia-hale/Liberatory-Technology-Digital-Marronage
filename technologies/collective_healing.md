@@ -79,4 +79,15 @@
   -  **More information/Examples**
      -   https://i-d.vice.com/en_uk/article/pkyazg/kelsey-lu-432-meditation-sound-bath
      -   https://www.youtube.com/watch?v=Xxs8ltPuAw8
+
+
+### Kinfolk https://play.google.com/store/apps/details?id=ar.shakers.monuments&hl=en_US&gl=US
+  - Creator: Movers & Shakers
+  - Problem: Lack of Black historical figures taught in schools
+  - Proposed Solution: An augmented reality application that creates virtual monuments honoring Black historical figures. The application also provides voice-overs and historical background of the figures
+  - Benefits
+    - Easy to use, particularly for children
+    - The context regarding a historical figure can change as soon as new information is presented
+  - Limitations
+    - I see no limitations for the application, beyond continuing to update the number of monuments.     
    
