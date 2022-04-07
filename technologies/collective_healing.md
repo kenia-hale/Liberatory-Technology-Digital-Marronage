@@ -81,7 +81,7 @@
      -   https://www.youtube.com/watch?v=Xxs8ltPuAw8
 
 
-### Kinfolk https://play.google.com/store/apps/details?id=ar.shakers.monuments&hl=en_US&gl=US
+### [Kinfolk](https://play.google.com/store/apps/details?id=ar.shakers.monuments&hl=en_US&gl=US)
   - Creator: Movers & Shakers
   - Problem: Lack of Black historical figures taught in schools
   - Proposed Solution: An augmented reality application that creates virtual monuments honoring Black historical figures. The application also provides voice-overs and historical background of the figures
