@@ -31,6 +31,7 @@ This project aims to explore liberatory technologies and forms of digital marron
 - [“The Digital Face”](https://www.theparisreview.org/blog/2020/10/21/the-digital-face/) - Namwali Serpell
 - [Indigenous wisdom as a model for software design and development](https://foundation.mozilla.org/en/blog/indigenous-wisdom-model-software-design-and-development/) - Amelia Winger-Bearskin 
 - [Technology & Ethos](http://www.soulsista.com/titanic/baraka.html) - Imamu Amiri Baraka (LeRoi Jones)
+- [CITP Seminar: Tech in Conversation: Imagining Radical Tech Futures](https://mediacentral.princeton.edu/media/CITP%20Special%20Event%3A%20Tech%20in%20Conversation-%20Imagining%20Radical%20Tech%20Futures/1_1ehcsg31) - Kenia Hale, Annika Hansteen-Izora, AM Darke, Ashley Jane Lewis
 
 
 #### Week 1: Facial Recognition
