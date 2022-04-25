@@ -1,27 +1,31 @@
 # Liberatory Technology + Digital Marronage
 
-## [Project Proposal](https://docs.google.com/document/d/1ljQSAa_LHABk7gWsWXDA-pNFvtFDSxUuCuxsYbTyvVc/edit?usp=sharing):
+## Project Description
 
-This project aims to explore liberatory technologies and forms of digital marronage and cultivate a technological toolbox that is both secure and transformative.
+Throughout Spring 2022, our research team explored **liberatory technologies and forms of digital marronage**  as a part of the [Ida B. Wells Just Data Lab](https://www.thejustdatalab.com/)
 
-## [Project Google Drive](https://drive.google.com/drive/u/1/folders/1JbcIvgdUS_r8SjZ1j63yBPZkpIRW2pBg)
-### [Link to Notes Folder](https://drive.google.com/drive/u/1/folders/16kYnJlmNNYQuqHNm9WqGXUOvIc8ju0b1)
+**Liberatory:**  supports the increased freedom and wellbeing of marginalized people, especially Black people, outside of capitalism and settler-colonial power structures.
 
-## Research Question: How do we design liberatory technologies?
+**Technology:** A tool used to accomplish a task.
 
-Liberatory: Anything that pushes for the increased freedom and wellbeing of marginalized peoples
+**Marronage:** in honor of Marroon societies throughout the South and Caribbean, the act of removing oneself from enslavement, liberating one’s community and drawing resources to free more people outside of the colonial center. 
 
-Technology: A tool used to accomplish a task
- 
-### Point of Contact: 
+Each week, we selected a different type of technology, completed readings about it, and collected liberatory forms of that tool in a GitHub repository. Based on our analysis throughout the semester, this Github functions as a liberatory technology toolbox for organizers and activists.
+
+Recognizing that existing digital interventions aren’t always successful, we explored how to design technology centered on liberation and digital marronage while honoring community knowledge. We asked: how do individuals protect themselves from the state while also being able to dance in the sun? Our research culminated in this GitHub repository, a liberatory technology proposed by RAs, and a zine to present our research findings.
+
+## How to use this repository
+
+In the /technologies folder above, you'll find the "liberatory" technologies that our team found and discussed throughout the semester. Some weeks it was hard to find, and some weeks we discussed problematic or harmful technologies instead. This repository is meant to serve as an artifact to our research, and an accessible list of technologies for activists and organizers to use in their work. These technologies aren't endorsed by the Ida B. Wells Just Data Lab.
+
+## [Access our Zine here](https://www.flipsnack.com/EBC8CD77C6F/liberatory-technology-zine.html)
+
+
+## Point of Contact: 
 	Payton Croskey: pcroskey@princeton.edu
 	Kenia Hale: kenia.hale@princeton.edu
  
-### Project Description 
-
-This project aims to explore liberatory technologies and forms of digital marronage and cultivate a technological toolbox that is both secure and transformative. We’re interested in surveying existing technical solutions to concerns around facial recognition, voice assistants, biometric technologies, social media, and protest safety. Recognizing that existing digital interventions aren’t always successful — how can we repurpose compelling aspects of these solutions from our “idea graveyard?” How do we design technical methods centered on liberation and digital marronage that honor community knowledge? Finally, how may individuals protect themselves from the state while also being able to dance in the sun? This research will culminate in a prototype liberatory technology proposed by RAs and a Zine to present their research findings.
- 
-### Semester Schedule + Readings
+## Semester Schedule + Readings
 
 #### Week 0: Preliminary Meeting
 - [Octavia’s Brood (introduction)](https://ebookcentral.proquest.com/lib/princeton/detail.action?docID=1996052) - Walidah Imarisha, adrienne maree brown, & Sheree Renee Thomas
@@ -66,34 +70,7 @@ This project aims to explore liberatory technologies and forms of digital marron
 
 #### Week 6, 7, 8
  - Analysis + Zine  + Prototype Building
- 
- 
-### Prototype Guiding Questions:
 
-- What problem are we trying to address? How?
-- What is our motivation? 
-- What are our individual roles within the team?
-  - Individual specialities/skills?
-- What are the broader social, political or economic consequences of our “solution?”
-  - Positive effects?
-  - Negative effects?
-- Intended / unintended uses/users?
-- What other people, groups or organizations do we need to work with to accomplish our goal?
-- What other people, groups or organizations are working against us?
-
-
-### Weekly Structure:
-- Discuss readings
-- RA’s present their found technology:
-  - The technology
-  - The community that created it + context
-  - What other organizations are affiliated with it? How sponsored it?
-- Analyze
-  - What works?
-  - What doesn’t?
-- How can this contribute to 
-  - our technology
-  - our zine
 
 # Models
 - [Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness](https://github.com/daviddao/awful-ai) 
