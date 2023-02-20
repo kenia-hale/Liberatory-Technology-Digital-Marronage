@@ -29,6 +29,8 @@
     - Removes awareness of the root causes of the problem itself
     - Removed from communities that are most affected by the problem. (e.g., Black and Brown women)
 
+## Problematic Technologies
+
 ### [SmartCap](https://www.mining3.com/solutions/smartcap/)
 - **Creator:** Mining3 and SmartCap
 - **Problem:** Truck drivers and miners falling asleep while working
@@ -53,8 +55,6 @@
   - Misidentification of a child or infant could mean exposure to the wrong treatments.
   - Expedites the surveillance of targeted communities, especially by police, by collecting fingerprints at birth.
 - **More Information** - ["UC San Diego researchers unveil non-touch optical technology for infant fingerprinting"](https://www.biometricupdate.com/201809/uc-san-diego-researchers-unveil-non-touch-optical-technology-for-infant-fingerprinting)
-
-## Problematic Technologies
 
 ### [Dangerous Things](https://dangerousthings.com/about-implants/)
 - **Creator:** Amal Graafstra
