@@ -22,8 +22,8 @@ In the /technologies folder above, you'll find the "liberatory" technologies tha
 
 
 ## Point of Contact: 
-	Payton Croskey: pcroskey@princeton.edu
-	Kenia Hale: kenia.hale@princeton.edu
+	Payton Croskey: pcroskey@alumni.princeton.edu
+	Kenia Hale: kenia.hale1@gmail.com
  
 ## Semester Schedule + Readings
 
